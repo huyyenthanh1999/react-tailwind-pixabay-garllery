@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-pixabay-garllery/static/css/main.3a8efb3a.css",
+    "main.js": "/react-tailwind-pixabay-garllery/static/js/main.4bc15a39.js",
+    "index.html": "/react-tailwind-pixabay-garllery/index.html",
+    "main.3a8efb3a.css.map": "/react-tailwind-pixabay-garllery/static/css/main.3a8efb3a.css.map",
+    "main.4bc15a39.js.map": "/react-tailwind-pixabay-garllery/static/js/main.4bc15a39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a8efb3a.css",
+    "static/js/main.4bc15a39.js"
+  ]
+}
